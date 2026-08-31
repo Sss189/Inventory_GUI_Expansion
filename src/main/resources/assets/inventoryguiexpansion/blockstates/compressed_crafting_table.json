@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "inventoryguiexpansion:compressed_crafting_table" },
+    "facing=south": { "model": "inventoryguiexpansion:compressed_crafting_table", "y": 180 },
+    "facing=west":  { "model": "inventoryguiexpansion:compressed_crafting_table", "y": 270 },
+    "facing=east":  { "model": "inventoryguiexpansion:compressed_crafting_table", "y": 90 }
+  }
+}

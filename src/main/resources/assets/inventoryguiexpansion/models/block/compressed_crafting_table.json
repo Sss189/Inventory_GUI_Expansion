@@ -1,0 +1,45 @@
+{
+  "texture_size": [32, 32],
+  "textures": {
+    "0": "inventoryguiexpansion:items/compressed_crafting_table",
+    "particle": "inventoryguiexpansion:items/compressed_crafting_table"
+  },
+  "elements": [
+    {
+      "from": [4, 0, 4],
+      "to": [12, 8, 12],
+      "faces": {
+        "north": {"uv": [0, 0, 4, 4], "texture": "#0"},
+        "east": {"uv": [0, 4, 4, 8], "texture": "#0"},
+        "south": {"uv": [4, 0, 8, 4], "texture": "#0"},
+        "west": {"uv": [4, 4, 8, 8], "texture": "#0"},
+        "up": {"uv": [4, 12, 0, 8], "texture": "#0"},
+        "down": {"uv": [12, 0, 8, 4], "texture": "#0"}
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "translation": [0, 8, 0]
+    },
+    "thirdperson_lefthand": {
+      "translation": [0, 8, 0]
+    },
+    "ground": {
+      "translation": [0, 5, 0]
+    },
+    "gui": {
+      "rotation": [30, 45, 0],
+      "translation": [0, 3.5, 0],
+      "scale": [1, 1, 1]
+    },
+    "head": {
+      "rotation": [0, -45, 0],
+      "translation": [0, 14.25, 0]
+    },
+    "fixed": {
+      "rotation": [0, -45, 0],
+      "translation": [0, 4, 1]
+    }
+  }
+}

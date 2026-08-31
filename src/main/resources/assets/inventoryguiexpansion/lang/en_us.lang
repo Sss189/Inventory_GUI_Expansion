@@ -1,0 +1,4 @@
+tile.compressed_crafting_table.name=Compressed Crafting Table
+effect.disable_crafting=Burnout
+tile.compressed_smelting_station.name=Compressed Smelting Station
+item.mending_ingot.name=Mending Ingot
